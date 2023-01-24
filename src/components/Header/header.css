@@ -1,0 +1,15 @@
+.active {
+  font-style: oblique;
+  background-color: maroon;
+}
+
+.color {
+  padding: 20px;
+  color: indianred;
+  accent-color: inherit;
+  background-color: hwb(hue white black);
+}
+
+.header {
+  background-color: black;
+}
